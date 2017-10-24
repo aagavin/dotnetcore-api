@@ -31,3 +31,6 @@ msbuild.wrn
 # Visual Studio/Code
 .vs/
 .vscode/
+
+# pki
+ass4
